@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="in1">Bill Amount:</string>
+    <string name="in2">Tip Percentage(%):</string>
+    <string name="in3">Tip Amount:</string>
+    <string name="in4">Total Amount:</string>
+    <string name="btn">Calculate</string>
+    <string name="toast">Please enter bill amount and tip percentage.</string>
+    <string name="sum">Summary</string>
+</resources>
